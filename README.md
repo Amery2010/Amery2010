@@ -15,8 +15,3 @@
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Amery2010&show_icons=true&theme=algolia&layout=compact)
-
-### Projects
-
-[![Deep Research](https://github-readme-stats.vercel.app/api/pin/?username=u14app&repo=deep-research)](https://github.com/u14app/deep-research)
-[![Gemini Next Chat](https://github-readme-stats.vercel.app/api/pin/?username=u14app&repo=gemini-next-chat)](https://github.com/u14app/gemini-next-chat)
