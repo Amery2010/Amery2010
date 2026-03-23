@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=%24+echo+%22Hello%2C+World%22+%7C+Amery;AI+Engineer+%7C+Open+Source+Builder+%7C+Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=%24+echo+%22Hello%2C+World%22+%7C+Amery;AI+Engineer+%7C+Open+Source+Builder+%7C+Full+Stack+Dev" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 
 ```javascript
 const amery = {
-  location: "China",
+  location: "China, Dali",
   focus: [
     "AI Applications",
     "LLM Tools",
@@ -47,8 +47,8 @@ const amery = {
 #### Frameworks & Runtime
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 
@@ -76,18 +76,18 @@ const amery = {
 
 <div align="center">
 
-| Project                                                                             | Stars                                                                                                              | Description                                           | Tech                                                                                             |
-| :---------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
-| [**Deep Research**](https://github.com/u14app/deep-research)                        | ![Stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat-square&color=58A6FF)                  | Use any LLMs for Deep Research. SSE API & MCP server. | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**Gemini Next Chat**](https://github.com/u14app/gemini-next-chat)                  | ![Stars](https://img.shields.io/github/stars/u14app/gemini-next-chat?style=flat-square&color=58A6FF)               | One-click deploy your private Gemini app for free.    | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Peinture**](https://github.com/Amery2010/peinture)                               | ![Stars](https://img.shields.io/github/stars/Amery2010/peinture?style=flat-square&color=58A6FF)                    | General-purpose AI image generation framework.        | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**HEAD**](https://github.com/Amery2010/HEAD)                                       | ![Stars](https://img.shields.io/github/stars/Amery2010/HEAD?style=flat-square&color=58A6FF)                        | A simple guide to HTML `<head>` elements.             | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)     |
-| [**MJ Prompt Generator**](https://github.com/Amery2010/midjourney-prompt-generator) | ![Stars](https://img.shields.io/github/stars/Amery2010/midjourney-prompt-generator?style=flat-square&color=58A6FF) | Midjourney prompt generator for AI art creation.      | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Open Builder**](https://github.com/Amery2010/open-builder)                       | ![Stars](https://img.shields.io/github/stars/Amery2010/open-builder?style=flat-square&color=58A6FF)                | AI-powered app generator via natural language.        | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Imagine Server**](https://github.com/Amery2010/imagine-server)                   | ![Stars](https://img.shields.io/github/stars/Amery2010/imagine-server?style=flat-square&color=58A6FF)              | Unified AI Image Generation API, multi-provider.      | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Cybergit**](https://github.com/Amery2010/cybergit)                               | ![Stars](https://img.shields.io/github/stars/Amery2010/cybergit?style=flat-square&color=58A6FF)                    | Generate annual user reports from GitHub data.        | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Open MindMap**](https://github.com/u14app/mindmap)                               | ![Stars](https://img.shields.io/github/stars/u14app/mindmap?style=flat-square&color=58A6FF)                        | AI-stream-native MindMap with iOS-style UI.           | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Markdown Editor**](https://github.com/u14app/markdown-editor)                    | ![Stars](https://img.shields.io/github/stars/u14app/markdown-editor?style=flat-square&color=58A6FF)                | CodeMirror-based Markdown editor component.           | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| Project                                                                                     | Stars                                                                                                              | Description                                           | Tech                                                                                             |
+| :------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| [**Deep Research**](https://github.com/u14app/deep-research)                                | ![Stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat-square&color=58A6FF)                  | Use any LLMs for Deep Research. SSE API & MCP server. | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Gemini Next Chat**](https://github.com/u14app/gemini-next-chat)                          | ![Stars](https://img.shields.io/github/stars/u14app/gemini-next-chat?style=flat-square&color=58A6FF)               | One-click deploy your private Gemini app for free.    | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Peinture**](https://github.com/Amery2010/peinture)                                       | ![Stars](https://img.shields.io/github/stars/Amery2010/peinture?style=flat-square&color=58A6FF)                    | General-purpose AI image generation framework.        | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Open Builder**](https://github.com/Amery2010/open-builder)                               | ![Stars](https://img.shields.io/github/stars/Amery2010/open-builder?style=flat-square&color=58A6FF)                | AI-powered app generator via natural language.        | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Open MindMap**](https://github.com/u14app/mindmap)                                       | ![Stars](https://img.shields.io/github/stars/u14app/mindmap?style=flat-square&color=58A6FF)                        | AI-stream-native MindMap with iOS-style UI.           | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Imagine Server**](https://github.com/Amery2010/imagine-server)                           | ![Stars](https://img.shields.io/github/stars/Amery2010/imagine-server?style=flat-square&color=58A6FF)              | Unified AI Image Generation API, multi-provider.      | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Cybergit**](https://github.com/Amery2010/cybergit)                                       | ![Stars](https://img.shields.io/github/stars/Amery2010/cybergit?style=flat-square&color=58A6FF)                    | Generate annual user reports from GitHub data.        | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**HEAD**](https://github.com/Amery2010/HEAD)                                               | ![Stars](https://img.shields.io/github/stars/Amery2010/HEAD?style=flat-square&color=58A6FF)                        | A simple guide to HTML `<head>` elements.             | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)     |
+| [**Midjourney Prompt Generator**](https://github.com/Amery2010/midjourney-prompt-generator) | ![Stars](https://img.shields.io/github/stars/Amery2010/midjourney-prompt-generator?style=flat-square&color=58A6FF) | Midjourney prompt generator for AI art creation.      | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Markdown Editor**](https://github.com/u14app/markdown-editor)                            | ![Stars](https://img.shields.io/github/stars/u14app/markdown-editor?style=flat-square&color=58A6FF)                | CodeMirror-based Markdown editor component.           | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 </div>
 
@@ -95,35 +95,14 @@ const amery = {
 
 ## `> neofetch`
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amery2010&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amery2010&layout=compact&theme=algolia&hide_border=true&langs_count=8)
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amery2010&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=Amery2010&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amery2010&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## `> git log --graph`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amery2010&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  "Any sufficiently advanced technology is indistinguishable      │
-│   from magic."  — Arthur C. Clarke                               │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
 
