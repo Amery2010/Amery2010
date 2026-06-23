@@ -16,7 +16,6 @@
 
 ```javascript
 const amery = {
-  location: "China, Dali",
   focus: [
     "AI Applications",
     "LLM Tools",
